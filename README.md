@@ -134,7 +134,7 @@ You need Python installed on your computer. Python 3.10 or newer is recommended.
 If using Git:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/facebook-live-selling-clustering.git
+git clone https://github.com/ibisoris/facebook-live-selling-clustering.git
 cd facebook-live-selling-clustering
 ```
 
@@ -238,4 +238,3 @@ Useful next improvements would be:
 - Add deeper cluster interpretation by status type and publishing time.
 - Include text or content features if available.
 - Build a simple dashboard for exploring cluster profiles.
-
